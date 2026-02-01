@@ -1,4 +1,5 @@
 # Data Visualization & Web Analytics – Tableau Dashboard
+https://public.tableau.com/app/profile/palak.kishore/viz/Assignment4_Palak/Dashboard?publish=yes 
 
 This repository contains the final submission for **Assignment 4** of the *Data Visualization & Web Analytics* course. The project focuses on designing an interactive Tableau dashboard and presenting insights through a structured narrative.
 
